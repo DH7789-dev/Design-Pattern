@@ -1,0 +1,5 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(î†£ü8ïëôü1J$2da103a9-36a9-42c3-a440-d8d498cddae2
+r	java:S106"+Replace this use of System.out by a logger.(´¢Éûÿÿÿÿ8ĞËêôü1J$57277fbc-7195-4249-baa8-0c4a6efcf425
+Œ
+java:S1128"DRemove this unused import 'java.util.concurrent.ArrayBlockingQueue'.(ÜÙ×Ëúÿÿÿÿ8‚ßîôü1J$eb674d90-35c4-4771-b5da-bd44d01878ed

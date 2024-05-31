@@ -1,0 +1,10 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Íá¹çJ$e2c64b92-9969-47b0-9ebc-7ca04e420c06
+—
+java:S1450"TRemove the "part1" field and declare it as a local variable in the relevant methods.(üªŽ€8ûºªðü1J$631c6e05-e93b-4222-8208-6f08e2327cf9
+œ
+java:S1450"TRemove the "part2" field and declare it as a local variable in the relevant methods.(¨µƒáûÿÿÿÿ8ûºªðü1J$ad874d0c-2aaa-44c4-b0d2-673912ff95b6
+l
+java:S1068")Remove this unused "part1" private field.(üªŽ€8ÿºªðü1J$97bae10e-8b53-48e5-a0fd-516b44aff43f
+q
+java:S1068")Remove this unused "part2" private field.(¨µƒáûÿÿÿÿ8ÿºªðü1J$d1790e38-abfe-41e2-a85b-ee9f0c6929b9

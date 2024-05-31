@@ -1,0 +1,6 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(íÕ€ŽJ$921ef9e1-5901-4bb9-b142-d69101096751
+•
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(™”” 8©ÿ²ðü1J$df091979-4fbc-4ac8-b4ec-fa93c41298e5
+j
+java:S1185"(Remove this method to simply inherit it.(™”” 8ªÿ²ðü1J$451738ae-d879-442c-b1de-4c17076dd4ec

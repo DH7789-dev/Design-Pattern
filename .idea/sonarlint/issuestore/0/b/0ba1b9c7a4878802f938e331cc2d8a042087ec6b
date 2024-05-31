@@ -1,2 +1,75 @@
 
-k	java:S106"+Replace this use of System.out by a logger.(‚ŞÏ¥ıÿÿÿÿJ$4ab88973-2c71-43d3-a085-df2eab05886b
+ä
+java:S6539×"ŸSplit this â€œMonster Classâ€ into smaller and more specialized ones to reduce its dependencies on other classes from 30 to the maximum authorized 20 or less.(àªÅö8ü±˜õü1J$fbe37622-44a2-48a4-b30b-394d5b8ee393
+7
+java:S1220""Move this file to a named package.8Õ¯õü1
+r	java:S106""+Replace this use of System.out by a logger.(õº£‡ûÿÿÿÿ8²˜õü1J$34fe69ca-5bec-4ff0-99e3-f1286dbe9fb3
+r	java:S1066"+Replace this use of System.out by a logger.(›ò¶éÿÿÿÿÿ8²˜õü1J$00ff58a6-4431-48b0-9119-cc921e06f16a
+r	java:S106="+Replace this use of System.out by a logger.(Œ¸äøÿÿÿÿ8²˜õü1J$a18d6553-5b2e-4038-8a01-ce21a1ae181c
+r	java:S106T"+Replace this use of System.out by a logger.(Ê†«éøÿÿÿÿ8²˜õü1J$7cb3a3ce-e744-431d-8afc-46f86680bbbc
+|
+java:S5993l"9Change the visibility of this constructor to "protected".(Î¬Ò8’²˜õü1J$f06e4ae7-7495-4043-a7ac-514db1368ba8
+n	java:S106"+Replace this use of System.out by a logger.(ÉŒÕÏ8“²˜õü1J$19fb0358-260a-4352-a987-7c96e2939b91
+n	java:S106Œ"+Replace this use of System.out by a logger.(„üŒ8“²˜õü1J$306a079a-92ba-4412-bf08-30749030bbbe
+n	java:S106ª"+Replace this use of System.out by a logger.(¸£ÏŸ8•²˜õü1J$c9751881-ab0e-4b7c-bb8b-40766f69e4ce
+}
+java:S5993±"9Change the visibility of this constructor to "protected".(æƒ¥¤8•²˜õü1J$38e580b2-5b18-434f-bba5-1a43705f348d
+s	java:S106Ç"+Replace this use of System.out by a logger.(äÙ¤¸ùÿÿÿÿ8–²˜õü1J$ca012ed5-ef35-4d8f-9472-0c4a82829f10
+n	java:S106Í"+Replace this use of System.out by a logger.(½‘ó£8–²˜õü1J$99a13087-50fc-4308-b517-739005b02315
+n	java:S106Ó"+Replace this use of System.out by a logger.(çè›Á8—²˜õü1J$43d1f11f-d630-4d4a-9659-a3646476597a
+n	java:S106í"+Replace this use of System.out by a logger.(ƒŠúà8—²˜õü1J$23180e30-bc34-464d-a88d-f4f3158f78cf
+s	java:S106…"+Replace this use of System.out by a logger.(¿Äã­øÿÿÿÿ8˜²˜õü1J$910c929e-f525-41db-a5b7-1e98241e11af
+n	java:S106"+Replace this use of System.out by a logger.(ÈŸ¢8™²˜õü1J$2d371601-037e-44c1-b4dc-442d90fba85a
+s	java:S106—"+Replace this use of System.out by a logger.(ãÿşºøÿÿÿÿ8™²˜õü1J$7a9423bd-7a14-4d80-b000-cb69e17354e4
+s	java:S106­"+Replace this use of System.out by a logger.(ÉÀ©¦øÿÿÿÿ8š²˜õü1J$363ac2f5-2ca7-424f-a4cd-bec778365497
+s	java:S106‚"+Replace this use of System.out by a logger.(ê­ôŞúÿÿÿÿ8²˜õü1J$fd5c0d21-1be1-49e8-9170-32229f625a91
+n	java:S106"+Replace this use of System.out by a logger.(Ù³æ·8²˜õü1J$d089d3e4-7cf1-444b-8676-4297ba168e4f
+s	java:S106›"+Replace this use of System.out by a logger.(²€ÚŸıÿÿÿÿ8²˜õü1J$33b7cf8c-e7e9-494b-997f-2695a747f09b
+n	java:S106¢"+Replace this use of System.out by a logger.(ÄÖğ§8²˜õü1J$a8e2e634-3ade-4c90-ad97-a136130e23bd
+s	java:S106¾"+Replace this use of System.out by a logger.(´¢Éûÿÿÿÿ8Ÿ²˜õü1J$9e100cd8-544b-4c12-a3fb-fc54b57d5841
+s	java:S106Ğ"+Replace this use of System.out by a logger.(õ“´ˆùÿÿÿÿ8¡²˜õü1J$a5b95c65-48c7-46cc-b769-dec01869d215
+…
+java:S1854‚"<Remove this useless assignment to local variable "observer".(µÿáşÿÿÿÿ8¢²˜õü1J$4ba17090-7d3b-452b-9873-d1e5f7a23722
+€
+java:S1854à"<Remove this useless assignment to local variable "productB".(Õ©æÂ8¢²˜õü1J$075f8951-e036-467a-b52e-05641f27dff4
+…
+java:S1854ß"<Remove this useless assignment to local variable "productA".(±Àÿÿÿÿÿÿ8¢²˜õü1J$7f1f3c02-d16f-4e59-80bf-b318cd24b7db
+
+java:S1854Û"=Remove this useless assignment to local variable "singleton".(®³ª8¢²˜õü1J$32c8eb71-f8fe-40f9-839d-cec15e694e47
+s	java:S106Ú"+Replace this use of System.out by a logger.(–Ø‡úÿÿÿÿ8¢²˜õü1J$3ece2a7b-5d40-4e27-86c7-160695a69f80
+r
+java:S1481Û".Remove this unused "singleton" local variable.(®³ª8£²˜õü1J$a376cd90-1c18-4716-908e-dca1eac9a47a
+n	java:S106İ"+Replace this use of System.out by a logger.(™†8£²˜õü1J$6c7a1071-0e6f-4900-afbd-65e243d0c897
+v
+java:S1481ß"-Remove this unused "productA" local variable.(±Àÿÿÿÿÿÿ8£²˜õü1J$eaf243e2-b28c-4f62-a201-4ef738447aa5
+q
+java:S1481à"-Remove this unused "productB" local variable.(Õ©æÂ8£²˜õü1J$832154de-4966-414e-a599-84c59b5a8a30
+n	java:S106ã"+Replace this use of System.out by a logger.(•À¾8£²˜õü1J$383cf3fb-e9be-4544-8469-8e7b508a7962
+n	java:S106è"+Replace this use of System.out by a logger.(®Ä£Â8£²˜õü1J$b25bdb44-cd43-409c-b6a0-c10ce3dae83b
+s	java:S106í"+Replace this use of System.out by a logger.(˜éÒûÿÿÿÿ8£²˜õü1J$82283c70-11bd-4eda-abe8-43dfef65c70a
+s	java:S106ó"+Replace this use of System.out by a logger.(Òë²éûÿÿÿÿ8¤²˜õü1J$0ee0a3a6-f51d-4938-81c5-17e586fef962
+n	java:S106ø"+Replace this use of System.out by a logger.(ˆö´÷8¤²˜õü1J$5e976ea7-11f3-471d-adf3-1ee684a71449
+n	java:S106ü"+Replace this use of System.out by a logger.(ß“ù8¤²˜õü1J$f78252fa-66d0-4d0b-a276-acd94a4647fb
+n	java:S106"+Replace this use of System.out by a logger.(§ûÖ”8¤²˜õü1J$a2ea8377-6422-45c7-80bf-a50b4f8dbf1c
+v
+java:S1481‚"-Remove this unused "observer" local variable.(µÿáşÿÿÿÿ8¤²˜õü1J$f0c7049d-bdb8-42f6-9b91-2852602b4a96
+n	java:S106„"+Replace this use of System.out by a logger.(¾«ÛŞ8¥²˜õü1J$a1484b15-2aa5-4417-b551-fa4956fc9faf
+n	java:S106‰"+Replace this use of System.out by a logger.(·Í°†8¥²˜õü1J$f4094bc4-2abd-49a6-9b53-d89ae9485b51
+s	java:S106"+Replace this use of System.out by a logger.(¯Şôñùÿÿÿÿ8¥²˜õü1J$6767b8b5-d010-4460-ab29-e2e7176d0115
+s	java:S106–"+Replace this use of System.out by a logger.(¡¹—Òøÿÿÿÿ8¥²˜õü1J$f5286d3a-a2ae-4ba9-8543-800550475c26
+n	java:S106™"+Replace this use of System.out by a logger.(Œıª¹8¥²˜õü1J$bed34606-a6d7-4479-9719-42d2b5754b87
+n	java:S106Ÿ"+Replace this use of System.out by a logger.(Ÿ”Ğ8¦²˜õü1J$29e3e603-aa6c-4205-9f44-544915fd088a
+s	java:S106¦"+Replace this use of System.out by a logger.(Õ®˜âøÿÿÿÿ8¦²˜õü1J$7860acd8-8ab9-4c6b-8de7-7e45401e3054
+n	java:S106­"+Replace this use of System.out by a logger.(ØÎ¬8§²˜õü1J$38a25b26-0abd-4607-b932-41138faa6a10
+u
+java:S1602¯",Remove useless curly braces around statement(Ã£„¾üÿÿÿÿ8¨²˜õü1J$c8872728-0bdd-4af4-98da-4e978a9710aa
+d
+java:S1612¯"AReplace this lambda with method reference 'sharedResource::read'.(Ã£„¾üÿÿÿÿ8†°õü1
+p
+java:S1602²",Remove useless curly braces around statement(Ê 8¨²˜õü1J$653aebf1-7306-4f30-9596-aed5347b7aa8
+s	java:S106¸"+Replace this use of System.out by a logger.(Êšü¬şÿÿÿÿ8¨²˜õü1J$9087225d-587e-4e63-88ce-f4de5964b372
+b
+java:S1128
+"ERemove this unused import 'java.util.concurrent.locks.ReadWriteLock'.(Í¿×ä8ˆ°õü1
+j
+java:S1128"NRemove this unused import 'java.util.concurrent.locks.ReentrantReadWriteLock'.(¢×¿8ˆ°õü1

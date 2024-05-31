@@ -42,7 +42,7 @@ State : Permet à un objet de changer son comportement lorsqu'il change son éta
 
 ### Concurrency Patterns (Patrons de concurrence) :
 
-Producer-Consumer : Gère la communication entre des processus qui produisent des données et des processus qui les consomment.
+org.example.ConcurrencyPattern.ProducerConsumer.Producer-org.example.ConcurrencyPattern.ProducerConsumer.Consumer : Gère la communication entre des processus qui produisent des données et des processus qui les consomment.
 
 Reader-Writer Lock : Contrôle l'accès à une ressource partagée entre plusieurs processus, en accordant l'accès en lecture à plusieurs processus simultanément, mais en accordant l'accès en écriture à un seul processus à la fois.
 
